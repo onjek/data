@@ -6,6 +6,7 @@
     {"type":"file","name":"난국.md"},
     {"type":"file","name":"늑에.md"},
     {"type":"file","name":"대문.md"},
+    {"type":"file","name":"말의 소리.md"},
     {"type":"file","name":"수 (문법).md"},
     {"type":"file","name":"스텔로.md"},
     {"type":"file","name":"시리즈로 배우는 영어 단어.md"},
@@ -19,5 +20,5 @@
     {"type":"file","name":"틀링깃어.md"}
   ]}
 ,
-  {"type":"report","directories":1,"files":17}
+  {"type":"report","directories":1,"files":18}
 ]
