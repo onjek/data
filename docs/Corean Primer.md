@@ -11,10 +11,12 @@ As it is reported that a practised pen is engaged on, or has finished, a Corean 
 ### 4
 its nouns or persons for its verbs, has the remarkable quality of inflexion according to the rank of the person addressed,—superior, equal, or inferior,—it is deemed advisable to give the pronouns and a verb, in its various tenses, with the proper terminations affixed.
 
-| P<small>ERSONAL</small> P<small>RONOUNS</small> ||||
+| P<small>ERSONAL</small> P<small>RONOUNS</small>. ||||
 |---|---|---|---|
-| I | ᄂᆡ *ne* (always)<br>,, 나 or ᄂᆞ *na*, possessive. | We, | 우리 *oori*. |
-| Thou | 데, *nê* 너, *nu* (addressing inferior)<br>님ᄌᆡ *nimje* ( ,, equal) | You | 너이 *nui*.<br>,, 님ᄌᆡ네 *nimjenê*. |
+| I | ᄂᆡ *ne* (always) | We, | 우리 *oori*. |
+| ,, | 나 or ᄂᆞ *na*, possessive. |  |  |
+| Thou | 데, *nê* 너, *nu* (addressing inferior) | You | 너이 *nui*. |
+|  | 님ᄌᆡ *nimje* ( ,, equal) | ,, | 님ᄌᆡ네 *nimjenê*. |
 |  | Superior always indirectly addressed by his title. |||
 | He, she, it | 네 *dê* (always) | They | 데사람덜 *desa* *ramdul*. |
 
@@ -25,5 +27,78 @@ its nouns or persons for its verbs, has the remarkable quality of inflexion acco
 | 1 Addressing superior, go (imp.) | 가우 *ga-oo*. |
 | 2 ,, equal ,, ,, | 가시 *gashi*. |
 | 3 ,, inferior ,, | 가라 *gara*. |
+| 1 (sup.) Has (he) gone? | (데) 갓소 *(dê) gasso*? |
+| 2 (equal.) ,, ,, | 갓슴마 *gassumma*? |
+| 3 (inf.) ,, ,, | 간너니 *gannuni*? |
+| 1 Has gone (affirm.) | 갓소 *gasso*. |
+| 2 ,, ,, | 갓슴메 *gassummê*. |
+| 3 ,, ,, | 갓다 *gatda*. |
+| He has not gone | 1. 가미 업수다 *gami upsoŏda*. |
+| ,, ,, | 2. 가미 업소ᄋᆀ ,, *upsowê*. |
+| ,, ,, | 3. 가미 업다 ,, *upda*. [*ansupdugga*. |
+| Will (he) go? | 1. 갑덧가 가디안습덧가 *gapdugga gadi* |
+| ,, ,, | 2. 갑가 가다 안습다 | *gapga gadi ansupda*. |
+| ,, ,, | 3. 가더니 가디 안터니 *gaduni gadiantuni*. |
+
+### 5
+|---|---|
+| Will go | 1. 가갓답두다 *gaghatdapdoŏda*. |
+|  | 2. 가갓답데 *gaghatdapdê*. |
+|  | 3. 가갓다더라 *gaghatdadura*. |
+| (I know he) will not go | 1. 가디 안습두다 *gadi ansupdooda*. |
+|  | 2. 가디 안습데 ,, *ansupdê*. |
+|  | 3. 가디 안터라 ,, *antura*. |
+| (He says he) will not go | 1. 못가갓답두다 *moggaghatdapdoŏda*. |
+|  | 2. 못가갓답데 *moggaghatdapdê*. |
+|  | 3. 못가갓다더라 *moggaghatdadura*. |
+| Unwilling to go | 1. 가디 안캇답두디 *gadi ankatdapdoŏda*. |
+|  | 2. 가디 안캇답데 ,, *ankatdapdê*. |
+|  | 3. 가디 안캇다더라 ,, *ankatdadura*. |
+
+안 and 못 are both negatives but differently used, as will be frequently seen in the lesson; 캇 is the 갓 of the affirmative–future. The 2, or middle form is that in constant use, though respect to age, places parents and much older people among the 1 class; while 3 comprises children as well as underlings.
+
+The verb to “eat” follows, in the middle or commonly used form; *gut*, material(never used alone); *mugghulgut*, eatables.
+
+|---|---|
+| Eat (imp.) | *muggushi*. |
+| Have you eaten? | *mughussumma upsumma*? |
+| Have eaten | *mughussum*. |
+| Have not eaten | *mughumi upsowê*. |
+| Will you eat? | *muggatdadun mugdi ankatdadun*? |
+| Will not eat. | *mugdi ansupdê*. |
+| Cannot eat. | *mugdi mot-hummuni*. |
+| Unwilling to eat. | *mugdi ankatdapdê*. |
+| I will eat. | *mogassummê*. |
+| He will eat | *moghatdapdê*. |
+
+The changes demanded by euphony belong to grammar but one or
+
+### 6
+two examples may be given as guides to the etymology of the words in the lessons.
+
+* Root of “come” is 오, *o*, 1 o-oo; 2 oshi 3 not ora, but ona.
+* To “work” is “to do labour”; labour is 일 *il*, “to do,” root 하 *ha*. 2 is *ir hashi*, but 3 is not *ilhara*, but *ilhayura*.
+
+#### T<small>HE</small> A<small>LPHABET</small>.
+The alphabet which begins the lessons, is spelled as the Coreans learn it, the Roman letter-spelling being based on the absolute rule of “No one sound to any two letters, no letter with any two sound,”—*e*, *ê* being exceptions, as also k, p, t, (Note 2nd below). Hence each letter should be always pronounced with the same value. Occasionally *u* approaches French *ü*; but not sufficiently near enough to warrant a separate form.
+
+| A<small>LPHABET</small>: V<small>ALUE</small>. ||||
+|---|---|---|---|
+| A | *a*rt | N | *n*o |
+| B | *b*an | O | p*o*t (always) |
+| Ch | *ch*um | OO | m*oo*n |
+| D | *d*are | P | *p*an |
+| Ds | lan*ds* | R | *r*an |
+| E | m*e*t | S | *s*on |
+| Ê | m*a*de | T | *t*an |
+| G | be *g*an | ts | ren*ts* |
+| H | *h*appy | U | f*u*n |
+| I | *i*t | V | *v*an |
+| J | *j*am | W | *w*an |
+| K | *c*a*n* | wh (hw) | *w*hy |
+| L | *l*ow | Y. | *y*ard |
+| M | *m*an |  |  |
+
+### 7
 
 ## 번역문
