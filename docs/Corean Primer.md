@@ -37,7 +37,7 @@ its nouns or persons for its verbs, has the remarkable quality of inflexion acco
 | ,, ,, | 2. 가미 업소ᄋᆀ ,, *upsowê*. |
 | ,, ,, | 3. 가미 업다 ,, *upda*. [*ansupdugga*. |
 | Will (he) go? | 1. 갑덧가 가디안습덧가 *gapdugga gadi* |
-| ,, ,, | 2. 갑가 가다 안습다 | *gapga gadi ansupda*. |
+| ,, ,, | 2. 갑가 가다 안습다 *gapga gadi ansupda*. |
 | ,, ,, | 3. 가더니 가디 안터니 *gaduni gadiantuni*. |
 
 ### 5
@@ -76,7 +76,7 @@ The changes demanded by euphony belong to grammar but one or
 ### 6
 two examples may be given as guides to the etymology of the words in the lessons.
 
-* Root of “come” is 오, *o*, 1 o-oo; 2 oshi 3 not ora, but ona.
+* Root of “come” is 오, *o*, 1 *o-oo*; 2 *oshi* 3 not *ora*, but *ona*.
 * To “work” is “to do labour”; labour is 일 *il*, “to do,” root 하 *ha*. 2 is *ir hashi*, but 3 is not *ilhara*, but *ilhayura*.
 
 #### T<small>HE</small> A<small>LPHABET</small>.
@@ -100,5 +100,32 @@ The alphabet which begins the lessons, is spelled as the Coreans learn it, the R
 | M | *m*an |  |  |
 
 ### 7
+Note 1: The same Corean letter stands for *ds* and *j*; for *ch* and *ts*; for *l* and *r*. Chinese *l* is translated by *n* not by *r*; and *f* by *b* or *p*
+
+Our *w* is formed by prefixing (오) to the vowel; *a* and *i* combine to form *e*, and *u* and *i* to ê.
+
+2. When closing a syllable, *p*, *k*, *t*(ㅂㄱㅅ) are to be pronounced precisely as in English, they holding an intermediate position between *d*, *t*, &c. which are harder than in English, having the same breathing as the Chinese; and d, t, like the Chinese, are pronounced with the tip of the tongue from the edge of the upper row of teeth, instead of from the roof of the mouth.
+3. In pronouncing *lip* the Chinaman must take two syllables *li-pu*; The English speaker opening his lips after forming *p*, but uttering no audible sound. The Corean *keeps his lips closed on every final consonant*, permitting no breath to escape, neither vocal like the Chinese, nor inaudible like the English speaker. This renders some finals indistinct as is the case of the final English *k*, *p*, *t* of N. 2.
+4. Euphony plays strange tricks with these finals, especially with ㅅ which should be *s*, but is so only before an *s*. It is assimilated by the succeeding consonant, becoming English *t*, before *d* or *t*; *k* before *g*, *k*; *n* before *n*, &c. ㅂ final becomes *m* before *n*, and *v* before *i*. ㄱ very rarely becomes *ng*. ㄴ after ㄹ as *l*, becomes *l*; and ㄹ as *r* after *n*, becomes *n*.
+5. When ㅅ precedes a consonant (ᄯᅩ, *dó*) it makes it very acute, like Chinese 4th tone: *h* after *g*, in the same syllable, softens *g* as it does *t* in “*the*,” “*thing*,” &c; as in Hebrew, Gaelic, Irish. But *ogat* is as readily understood as *oghat*
+6. The sign O in Corean before the vowel index, serves to distinguish the affix, of which it forms part, from the root which immediately precedes it; e. g. 가르도 and 갈으도 are simmilarly pronounced but the latter points out the root 갈, which the former cannot. It its also
+
+### 8
+useful in pronouncing the Roman letter, for *hanga* may be pronounced *han-ga* or *hangaa*, the Corean of which is respectively 한가 & 항아.
+7. The Corean alphabet, though always in syllables, is written, not from left to right as here, but from top to bottom and right to left, like Chinese; and the current hand in English is no more unlike the printed letter than in the Corean.
+
+There is a slight difference between the pronunciation of this Primer and that of the capital in some words, as *hanul* “heaven,” capital *hanal*; tiundi “heaven and earth,” capital “*chiunji*.” But these are not numerous, and the pronunciation of the west provinces is understood all over Corea.
+
+Newchwang, 1877.
+
+### COREAN ALPHABET.
+| NINE FINALS. ||||||
+|---|---|---|---|---|---|
+| ㄱ | ㄴ | ㄷ | ㄹ | ㅁ | ㅂ |
+| *giug* | *niun* | *dighud* | *liul* | *mium* | *biub* |
+| g | n | d | r & l | m | b |
+| ㅅ | ㅣ | ㅇ |  |  |  |
+| *siud* | *oi* | *iheng* |  |  |  |
+| s | i | ng |  |  |  |
 
 ## 번역문
