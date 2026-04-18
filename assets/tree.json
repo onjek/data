@@ -3,6 +3,7 @@
     {"type":"file","name":"Corean Primer.md"},
     {"type":"file","name":"Katedro Esperanta(동광 2권 1호).md"},
     {"type":"file","name":"Katedro Esperanta(동광 2권 2호).md"},
+    {"type":"file","name":"Katedro Esperanta(동광 2권 3호).md"},
     {"type":"file","name":"“경양사”의 연구.md"},
     {"type":"file","name":"격.md"},
     {"type":"file","name":"과학 술어와 우리말.md"},
@@ -27,5 +28,5 @@
     {"type":"file","name":"한청문감 범례.md"}
   ]}
 ,
-  {"type":"report","directories":1,"files":25}
+  {"type":"report","directories":1,"files":26}
 ]
